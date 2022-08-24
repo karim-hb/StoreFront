@@ -1,0 +1,2 @@
+export const  USER_DATA_ADDED = "USER_DATA_ADDED"
+export const  USER_DATA_REMOVED = "USER_DATA_REMOVED"
